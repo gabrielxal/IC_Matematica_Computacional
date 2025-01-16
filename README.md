@@ -69,5 +69,5 @@ i_aitken, erro_aitken, autovalores_aitken, autovetor_aitken = Aitken(A, yo, p=1e
 
 ## Autor
 
-Este projeto foi desenvolvido para o congresso, com o objetivo de analisar o comportamento de métodos numéricos aplicados a matrizes.
+Este projeto foi desenvolvido por mim e [João Pedro Fernandes](https://github.com/Joaof14) para o congresso, com o objetivo de analisar o comportamento de métodos numéricos aplicados a matrizes.
 
