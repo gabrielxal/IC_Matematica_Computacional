@@ -67,7 +67,9 @@ i, erro, autovalores, autovetor = metodo_da_potencia(A, yo, p=1e-4)
 i_aitken, erro_aitken, autovalores_aitken, autovetor_aitken = Aitken(A, yo, p=1e-4)
 ```
 
-## Autor
+### Contribuidores:
 
-Este projeto foi desenvolvido por mim e [João Pedro Fernandes](https://github.com/Joaof14) para o congresso, com o objetivo de analisar o comportamento de métodos numéricos aplicados a matrizes.
+- **[Gabriel Almeida Lima](https://github.com/gabrielxal)**
+- **[João Pedro Fernandes](https://github.com/Joaof14)**
+
 
