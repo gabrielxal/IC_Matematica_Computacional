@@ -1,7 +1,7 @@
 
 ### Descrição do Projeto
 
-Este projeto, foi desenvolvido por mim e pelo meu colega @Joaof14, que implementa o **Método da Potência** para calcular autovalores dominantes de uma matriz, e busca acelerar a convergência desse método utilizando técnicas baseadas no **Método dos Mínimos Quadrados (MMQ)**. O projeto inclui diversas tentativas de aceleração aplicadas ao Método da Potência, como Aitken e diferentes variações de MMQ (linear, logarítmica, exponencial, geométrica, etc.).
+Este projeto, foi desenvolvido por mim e pelo meu colega [João Pedro Fernandes](https://github.com/Joaof14), que implementa o **Método da Potência** para calcular autovalores dominantes de uma matriz, e busca acelerar a convergência desse método utilizando técnicas baseadas no **Método dos Mínimos Quadrados (MMQ)**. O projeto inclui diversas tentativas de aceleração aplicadas ao Método da Potência, como Aitken e diferentes variações de MMQ (linear, logarítmica, exponencial, geométrica, etc.).
 
 ### Funcionalidades
 
