@@ -45,7 +45,3 @@ Richard L. Burden e J. Douglas Faires. Análise Numérica. 9ª ed. Cengage Learn
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um pull request ou relatar problemas na seção de issues.
 
-
-=======
-# IC_Matematica_Computacional
->>>>>>> 279d83394c5ded30d79aa8cdbbe7d4518c6c45e4
